@@ -46,12 +46,6 @@ Tools         : Git, GitHub, VSCode, Android Studio, Postman
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geronibo&show_icons=true&theme=gruvbox" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geronibo&layout=compact&theme=gruvbox" width="380">
-</p>
 
 ---
 
