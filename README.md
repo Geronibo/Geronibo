@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hello / Merhaba, I'm İbrahim!</h1>
 
 <p align="center">
-  🎓 Software Engineering Student | 🤖 AI Intern | 🌍 Erasmus+ Youth Leader  
+  🎓 Software Engineering Student | 🤖 AI Responsible | 🌍 Erasmus+ Youth Leader  
   💻 Mobil uygulamalar, görüntü işleme ve yapay zeka ile ilgileniyorum.
 </p>
-
+s
 ---
 
 ## 🌐 About Me | Hakkımda
 
 **English 🇬🇧**  
 - 🎓 Final-year Software Engineering student at *Manisa Celal Bayar University*  
-- 🤖 AI Intern at *İletişim Yazılım*  
+- 🤖 AI Responsible at *İletişim Yazılım*  
 - 🧠 Passionate about Deep Learning, Computer Vision, and Mobile Development  
 - 🧪 Built a real-time bottle classification system using YOLOv8 + PyQt5  
 - 🌍 Represented Turkey in Erasmus+ project "Pieces of Peace" as project leader
