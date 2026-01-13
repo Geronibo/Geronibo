@@ -47,7 +47,7 @@ Tools         : Git, GitHub, VSCode, Android Studio, Postman
 
 ## 📬 Contact Me | İletişim
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-besen-212804409ib/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahimbesen/)
 - 📧 Email: ibrahimbesen@hotmail.com
 - 💬 Always open to new projects, collaborations, and tech discussions!
 
