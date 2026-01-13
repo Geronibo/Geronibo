@@ -4,8 +4,6 @@
  🤖 AI Responsible | 🌍 Erasmus+ Youth Leader  
   💻 Mobil uygulamalar, görüntü işleme ve yapay zeka ile ilgileniyorum.
 </p>
-s
----
 
 ## 🌐 About Me | Hakkımda
 
